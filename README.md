@@ -1,6 +1,6 @@
 # NKX-TKL
 A Not so Simple TKL Keyboard project
-This keyboard model is for personal or vendors who would like to produce a simple by good looking TKL Keyboard,
+This keyboard model is for personal use or vendors who would like to produce a simple by good looking TKL Keyboard.
 
 ## Specifications
 * Dimensions    : 361mm x 146mm x 33mm
