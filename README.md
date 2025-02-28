@@ -12,10 +12,10 @@ This keyboard model is for personal or vendors who would like to produce a simpl
 
 ## Features
 * Internal Ridges for better acoustics
-* WK and WKL top casings [\F13 support in future\]
+* WK and WKL top casings [F13 support in future\]
 
 ## Required Hardware
-* Socket Head M2 x 0.4 Machine Screws - [\7x 3mm Thread Length, 6x 5mm Thread Length, 4x 8mm Thread Length\]
-* Countersunk Head M3 x 0.5 Machine Screws - [\2x 8mm Full Length\]
+* Socket Head M2 x 0.4 Machine Screws - [7x 3mm Thread Length, 6x 5mm Thread Length, 4x 8mm Thread Length\]
+* Countersunk Head M3 x 0.5 Machine Screws - [2x 8mm Full Length\]
 * Fly Daughterboard
 * PCB with JST or Ezmate Connector
