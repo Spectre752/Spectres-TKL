@@ -6,7 +6,7 @@ This keyboard model is for personal or vendors who would like to produce a simpl
 * Dimensions    : 361mm x 146mm x 33mm
 * Front Height  : 18mm
 * Angle         : 6.5 deg
-* Weight        : approx 1.96kg  [\Aluminum Case, Copper Weight\]
+* Weight        : approx 1.96kg  [Aluminum Case, Copper Weight\]
 * Mounting      : Top Mount
 * PCB           : Standard Hiney Style PCB with JST or Ezmate connector - Requires Fly Daughterboard
 
