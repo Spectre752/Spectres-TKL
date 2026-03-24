@@ -1,4 +1,4 @@
-# NKX-TKL
+# Spectre72's-TKL
 A Not so Simple TKL Keyboard project
 This keyboard model is for personal use or vendors who would like to produce a simple by good looking TKL Keyboard.
 
